@@ -11,6 +11,7 @@ import Login from './pages/Login';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
+  console.log("Hello")
   return (
     <Router>
       <Container fluid className="p-0">
