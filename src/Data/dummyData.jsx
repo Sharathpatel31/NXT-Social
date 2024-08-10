@@ -1,4 +1,3 @@
-// dummyData.js
 
 const users = [
     { id: 1, username: "john_doe", name: "John Doe", email: "john@example.com", lastActive: new Date(2023, 7, 1) },

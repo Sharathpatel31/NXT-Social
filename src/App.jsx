@@ -7,7 +7,6 @@ import Users from './pages/UserListing';
 import Posts from './pages/PostListing';
 import Login from './pages/Login'; 
 
-// Import Bootstrap CSS
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
